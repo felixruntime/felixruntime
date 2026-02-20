@@ -39,9 +39,9 @@ Minha trajetória une o rigor técnico da **42 São Paulo** à inovação estrat
 
 ---
 
-### 📂 Portfólio de Execução (FIAP Labs)
-* 🚀 **[Nome do Projeto 1]**: Automação de [X] usando Agentes de IA.
-* 📊 **[Nome do Projeto 2]**: Modelo preditivo focado em [Y] para geração de ROI.
+### 📂 Portfólio de Execução
+* 🚀 **[Comming Soon]**: First Project
+* 📊 **[Comming Soon]**: Second Project
 
 ---
 <p align="center">
