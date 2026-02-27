@@ -26,7 +26,7 @@ Minha trajetória une o rigor técnico da **42 São Paulo** à inovação estrat
 | Domain | Tools & Languages |
 | :--- | :--- |
 | **Languages** | `Python`, `C`, `SQL` |
-| **AI/ML** | `LangChain`, `CrewAI`, `PyTorch`, `Scikit-learn` |
+| **AI/ML** | ``, ``, ``, `` |
 | **Infra** | `Docker`, `Git`, `Linux/Unix` |
 
 ---
